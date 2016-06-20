@@ -255,15 +255,39 @@ a:active {
 }
 .first-li{
 
-    font-size: 0.12rem;
+    font-size: 0.18rem;
     color: white;
     margin:0.05rem 0rem 0.05rem 0rem;
 
 }
+.first-li1{
+    position: absolute;
+    top: 4.5rem;
+    font-size: 0.18rem;
+    color: white;
+    margin:0.05rem 0rem 0.05rem 0rem;
+    left: 1.4rem;
+}
+.first-li2{
+    position: absolute;
+    top: 4.5rem;
+    font-size: 0.18rem;
+    color: white;
+    margin:0.05rem 0rem 0.05rem 0rem;
+    left: 0.55rem;
+}
+.first-li3{
+    position: absolute;
+    top: 4.5rem;
+    font-size: 0.18rem;
+    color: white;
+    margin:0.05rem 0rem 0.05rem 0rem;
+    left: 2.36rem;
+}
 .first-span{
 
-    font-size: 0.12rem;
-    color: white;
+    font-size: 0.16rem;
+    color:gold;
 
 }
 .wz{
@@ -273,14 +297,57 @@ a:active {
     margin-left: 0;
 }
 .first-TX{
-    width: 1rem;
-    height:1rem ;
-    border-radius: 50%;
-   background: url("upload/a.png")no-repeat;
+     width: 1rem;
+     height:1rem ;
+     border-radius: 50%;
+     background: url("upload/a.png")no-repeat;
+
+     position: absolute;
+     top: 0.7rem;
+     margin-left: -50px;
+     left: 50%;
+     animation: fade-in;/*动画名称*/
+     animation-duration: 2s;/*动画持续时间*/
+     -webkit-animation:fade-in 2s;/*针对webkit内核*/
+ }
+.first-TX2{
+    width: 0.5rem;
+    height:0.5rem ;
+    border-radius: 10%;
+    background: url("upload/shouji.png")no-repeat;
 
     position: absolute;
-    top: 0.7rem;
-    margin-left: -50px;
+    top: 4rem;
+    margin-left: -25px;
+    left: 50%;
+    animation: fade-in;/*动画名称*/
+    animation-duration: 2s;/*动画持续时间*/
+    -webkit-animation:fade-in 2s;/*针对webkit内核*/
+}
+
+.first-TX3{
+    width: 0.5rem;
+    height:0.5rem ;
+    border-radius: 10%;
+    background: url("upload/weixin4.png")no-repeat;
+
+    position: absolute;
+    top: 4rem;
+    margin-left: 70px;
+    left: 50%;
+    animation: fade-in;/*动画名称*/
+    animation-duration: 2s;/*动画持续时间*/
+    -webkit-animation:fade-in 2s;/*针对webkit内核*/
+}
+.first-TX4{
+    width: 0.5rem;
+    height:0.5rem ;
+    border-radius: 10%;
+    background: url("upload/qq.png")no-repeat;
+
+    position: absolute;
+    top: 4rem;
+    margin-left: -120px;
     left: 50%;
     animation: fade-in;/*动画名称*/
     animation-duration: 2s;/*动画持续时间*/
