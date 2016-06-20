@@ -262,7 +262,7 @@ a:active {
 }
 .first-li1{
     position: absolute;
-    top: 4.5rem;
+    top: 4rem;
     font-size: 0.18rem;
     color: white;
     margin:0.05rem 0rem 0.05rem 0rem;
@@ -270,19 +270,19 @@ a:active {
 }
 .first-li2{
     position: absolute;
-    top: 4.5rem;
+    top: 4rem;
     font-size: 0.18rem;
     color: white;
     margin:0.05rem 0rem 0.05rem 0rem;
-    left: 0.55rem;
+    left: 0.47rem;
 }
 .first-li3{
     position: absolute;
-    top: 4.5rem;
+    top: 4rem;
     font-size: 0.18rem;
     color: white;
     margin:0.05rem 0rem 0.05rem 0rem;
-    left: 2.36rem;
+    left: 2.45rem;
 }
 .first-span{
 
@@ -317,7 +317,7 @@ a:active {
     background: url("upload/shouji.png")no-repeat;
 
     position: absolute;
-    top: 4rem;
+    top: 3.5rem;
     margin-left: -25px;
     left: 50%;
     animation: fade-in;/*动画名称*/
@@ -329,10 +329,10 @@ a:active {
     width: 0.5rem;
     height:0.5rem ;
     border-radius: 10%;
-    background: url("upload/weixin4.png")no-repeat;
+    background: url("upload/qq.png")no-repeat;
 
     position: absolute;
-    top: 4rem;
+    top: 3.5rem;
     margin-left: 70px;
     left: 50%;
     animation: fade-in;/*动画名称*/
@@ -343,10 +343,10 @@ a:active {
     width: 0.5rem;
     height:0.5rem ;
     border-radius: 10%;
-    background: url("upload/qq.png")no-repeat;
+    background: url("upload/weixin4.png")no-repeat;
 
     position: absolute;
-    top: 4rem;
+    top: 3.5rem;
     margin-left: -120px;
     left: 50%;
     animation: fade-in;/*动画名称*/
